@@ -10,7 +10,7 @@ class readFile {
   }
 
   content() {
-    return this.read().trim().split("\n");
+    return this.read();
   }
 }
 
