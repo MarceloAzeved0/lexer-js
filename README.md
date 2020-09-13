@@ -1,6 +1,6 @@
 # lexer-js
 
-Para executar: node src/index.js [path_of_file]
+Para executar: node src/index.js [name_of_file]
 
 A atividade consiste um projetar e construir um lexer simples para os tipos de tokens da gramática de aritmética básica. A atividade pode ser feita individualmente ou em duplas. A linguagem de programação é de livre escolha e os arquivos com o código-fonte devem ser enviados através do Moodle.
 
